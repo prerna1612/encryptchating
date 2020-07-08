@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526172479056",
+    "firebase_url": "https://my-encrypt-chat.firebaseio.com",
+    "project_id": "my-encrypt-chat",
+    "storage_bucket": "my-encrypt-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526172479056:android:3d18b93ecdbc3f9526fb55",
+        "android_client_info": {
+          "package_name": "com.example.encryptchatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526172479056-81tgnq7hg6beavt01bsrv26as88qkv3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.encryptchatter",
+            "certificate_hash": "8388c9c4259ab7b8bcb3997cb198037b935379db"
+          }
+        },
+        {
+          "client_id": "526172479056-0oogie5i7i5j8sgkpub7fsb89hqteimd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF6UBdWWsYh8tAeJxxJlLqRnfyH4Cr6Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526172479056-0oogie5i7i5j8sgkpub7fsb89hqteimd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

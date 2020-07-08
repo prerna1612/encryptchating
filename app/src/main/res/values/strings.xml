@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">encrypt chatter</string>
+    <string name="type_your_message_here" />
+    <string name="send" />
+</resources>
