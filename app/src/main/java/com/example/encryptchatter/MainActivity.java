@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
 
         Date date = new Date();
         //on refeernce object get date and string which happedn on send button and send the string as argument od AESencryption method
-        databaseReference.child(Long.toString(date.getTime())).setValue(AESEncryptionMethod(editText.getText().toString()));
+      stringMessage=  databaseReference.child(Long.toString(date.getTime())).setValue(AESEncryptionMethod(editText.getText().toString()));
         //it store an empty message which good in style(optional)
         editText.setText("");
 
